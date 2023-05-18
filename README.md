@@ -9,7 +9,9 @@ Clear the note-taking area with the "Clear" button
 
 # Installation
 Clone the repository: git clone https://github.com/your_username/your_repository.git
+
 Install the required dependencies: pip install tkinter
+
 Run the application: python main.py
 
 # Usage
