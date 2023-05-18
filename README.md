@@ -8,7 +8,7 @@ Clear the note-taking area with the "Clear" button
 
 
 # Installation
-Clone the repository: git clone https://github.com/your_username/your_repository.git
+Clone the repository: git clone https://github.com/Shubh91232/Always-Visible-Window-App.git
 
 Install the required dependencies: pip install tkinter
 
